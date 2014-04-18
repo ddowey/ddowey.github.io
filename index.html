@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>United States National Solar Radiation Database 2003-2004</title>
+</head>
+
+
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script src="http://d3js.org/queue.v1.min.js"></script>
+<style type="text/css">
+    svg{
+        /*background: #eeeeee;*/
+    }
+
+
+	.background {
+	  fill: none;
+	  pointer-events: all;
+	}
+
+	#states{
+	  fill: #7fcdbb;
+	}
+
+	#states .active {
+	  fill: #2c7fb8;
+	}
+
+	#states-borders {
+	  fill: none;
+	  stroke: #fff;
+	  stroke-width: 1.5px;
+	  stroke-linejoin: round;
+	  stroke-linecap: round;
+	  pointer-events: none;
+	}
+		
+	
+    .country{
+        fill: #edf8b1;
+        stroke:  #2c7fb8;
+    }
+
+    text{
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 9pt;
+        /*font-weight: lighter;*/
+    }
+
+    .axis text {
+        font: 10px sans-serif;
+    }
+
+    .axis line,
+    .axis path {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .station{
+        fill:lightgrey;
+        opacity: .7;
+    }
+    .station.hasData{
+        fill:blue;
+        opacity: 1;
+    }
+    .hourLine{
+        fill:none;
+        stroke:steelblue;
+
+    }
+    .brush .extent{
+        fill:gray;
+        opacity: .3;
+    }
+
+
+	
+div.tooltip {   
+	position: absolute;           
+	text-align: center;           
+	width: auto;                  
+	height: auto;                 
+	padding: 2px;             
+	font: 10px sans-serif;        
+	background-color: white;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	pointer-events: none;       
+}
+
+	.symbol {
+	  fill-opacity: .6;
+	}
+
+</style>
+
+
+
+<table>
+		<h1 style="text-align:center; text-decoration-line:underline; font-style: normal; font-variant: normal; font-weight: normal; font-size: 32px; line-height: normal; font-family: sans-serif">United States National Solar Radiation Database 2003-2004 </h1>
+      <tr><td><div id="vis"></div></td><td><div id="detailVis"></div></td></tr>
+</table>
+<script src="GeoUSA.js"></script>
+
+</body>
+</html>
