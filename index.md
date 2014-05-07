@@ -9,6 +9,8 @@ Heading
                     <li class="divider"></li>
                     <li><a href="#dropdown2" data-toggle="tab">1996</a></li>
                   </ul>
+
+Hi Pierre!
 ----------
 
   * Pierre needs to work hard
