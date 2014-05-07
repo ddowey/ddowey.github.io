@@ -6,7 +6,7 @@ Hi Pierre!
 
   * Pierre needs to work hard
   * Then he can go to university
-  [gimmick:themechooser](Choose theme)
+  [gimmick:theme](yeti)
 	<a href="GeoUSA.html">GeoUSA</a>
   [TAB] Second tab
 
