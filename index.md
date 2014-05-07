@@ -6,7 +6,7 @@ Hi Pierre!
 
   * Pierre needs to work hard
   * Then he can go to university
-  <a href="GeoWorld.html">Web Design Basics</a>
+  <a href="GeoUSA.html">GeoUSA</a>
   [TAB] Second tab
 
   This is a hyperlink to [Google](http://google.com).
@@ -29,7 +29,7 @@ Hi Pierre!
 [Menu Item 1]()
 
   * # SubMenu Heading 1
-  * [SubMenu Item 1](GeoWorld.html)
+  * [GeoWorld](GeoWorld.html)
   * [SubMenu Item 2](subitem2.md)
   - - - -
   * # SubMenu Heading 2
