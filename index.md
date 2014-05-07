@@ -1,7 +1,7 @@
 Heading
 =======
 
-SubHeading
+Hi Pierre!
 ----------
 
   * list item 1
@@ -26,7 +26,7 @@ SubHeading
 [Menu Item 1]()
 
   * # SubMenu Heading 1
-  * [SubMenu Item 1](GeoWorld.md)
+  * [SubMenu Item 1](GeoWorld.html)
   * [SubMenu Item 2](subitem2.md)
   - - - -
   * # SubMenu Heading 2
