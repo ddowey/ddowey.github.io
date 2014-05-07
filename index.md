@@ -2,13 +2,12 @@ Heading
 =======
 
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                    Dropdown <span class="caret"></span>
-                  </a>
-				  <ul class="dropdown-menu">
-                    <li><a href="#dropdown1" data-toggle="tab">1995</a></li>
-                    <li class="divider"></li>
-                    <li><a href="#dropdown2" data-toggle="tab">1996</a></li>
-                  </ul>
+                    Dropdown <span class="caret"></span></a>
+				  class="dropdown-menu"
+                  +><a href="#dropdown1" data-toggle="tab">1995</a>
+                  +class="divider"><
+                  +<a href="#dropdown2" data-toggle="tab">1996</a>
+                  
 
 Hi Pierre!
 ----------
