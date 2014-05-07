@@ -6,7 +6,7 @@ Hi Pierre!
 
   * Pierre needs to work hard
   * Then he can go to university
-  [TAB] First tab
+  <a href="GeoWorld.html">Web Design Basics</a>
   [TAB] Second tab
 
   This is a hyperlink to [Google](http://google.com).
