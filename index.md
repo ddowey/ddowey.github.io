@@ -11,7 +11,7 @@ Hi Pierre!
 
   Images are like hyperlinks, but with an exclamation mark in front of them:
   ![](http://placekitten.com/g/250/250)
-  ![Lucas](IMG_1324.jpg)
+  ![Lucas](IMG_1324.JPG)
   
   
   
