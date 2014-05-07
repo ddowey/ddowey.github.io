@@ -7,6 +7,7 @@ Hi Pierre!
   * Pierre needs to work hard
   * Then he can go to university
   [gimmick:theme](yeti)
+  <button type="button" class="btn btn-ttc">My button</button>
 	<a href="GeoUSA.html">GeoUSA</a>
   [TAB] Second tab
 
