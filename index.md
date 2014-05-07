@@ -5,7 +5,7 @@ Hi Pierre!
 ----------
 
   * Pierre needs to work hard
-  * list item 2
+  * Then he can go to university
 
   This is a hyperlink to [Google](http://google.com).
 
