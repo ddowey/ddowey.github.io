@@ -4,7 +4,7 @@ Heading
 Hi Pierre!
 ----------
 
-  * list item 1
+  * Pierre needs to work hard
   * list item 2
 
   This is a hyperlink to [Google](http://google.com).
