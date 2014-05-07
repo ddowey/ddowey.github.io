@@ -4,6 +4,11 @@ Heading
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                     Dropdown <span class="caret"></span>
                   </a>
+				  <ul class="dropdown-menu">
+                    <li><a href="#dropdown1" data-toggle="tab">1995</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#dropdown2" data-toggle="tab">1996</a></li>
+                  </ul>
 ----------
 
   * Pierre needs to work hard
