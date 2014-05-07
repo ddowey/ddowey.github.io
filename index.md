@@ -6,12 +6,14 @@ Hi Pierre!
 
   * Pierre needs to work hard
   * Then he can go to university
+  [TAB] First tab
+  [TAB] Second tab
 
   This is a hyperlink to [Google](http://google.com).
 
   Images are like hyperlinks, but with an exclamation mark in front of them:
   ![](http://placekitten.com/g/250/250)
-  ![Lucas](IMG_1324.JPG)
+  ![Lucas](IMG_1324.JPG "Football player")
   
   
   
