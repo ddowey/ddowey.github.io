@@ -1,7 +1,9 @@
 Heading
 =======
 
-Hi Pierre!
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                    Dropdown <span class="caret"></span>
+                  </a>
 ----------
 
   * Pierre needs to work hard
@@ -9,7 +11,7 @@ Hi Pierre!
   [gimmick:theme](yeti)
   <button type="button" class="btn btn-ttc">My button</button>
 	<a href="GeoUSA.html">GeoUSA</a>
-  [TAB] Second tab
+
 
   This is a hyperlink to [Google](http://google.com).
 
