@@ -1,4 +1,4 @@
-Heading
+[Heading](index2.html)
 =======
 
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">
