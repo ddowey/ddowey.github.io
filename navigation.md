@@ -1,4 +1,4 @@
-# Hi Pierre
+# AM207
 
 [About](index.md)
 
@@ -28,7 +28,7 @@
 [Forum](forum.md)
 
 
-[gimmick:theme (inverse: false)](Yeti)
+[gimmick:theme (inverse: false)](spacelab)
 
 [gimmick:ThemeChooser](Change theme)
 
