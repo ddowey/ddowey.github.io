@@ -1,4 +1,4 @@
-![](index_dashboard.html)
+Heading1 (index_dashboard.html)
 =======
 
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">
