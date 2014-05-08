@@ -3,10 +3,7 @@ Heading
 
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                     Dropdown <span class="caret"></span></a>
-				  class="dropdown-menu"
-                  +><a href="#dropdown1" data-toggle="tab">1995</a>
-                  +class="divider"><
-                  +<a href="#dropdown2" data-toggle="tab">1996</a>
+
                   
 
 Hi Pierre!
