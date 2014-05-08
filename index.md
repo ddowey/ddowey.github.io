@@ -77,3 +77,10 @@ License
 MDwiki is licensed under [GNU GPLv3 with additional terms applied][license].
 
   [license]: https://github.com/Dynalon/mdwiki/blob/master/LICENSE.txt
+  
+My essay
+-------
+
+Blah blah [GNU GPLv3 with additional terms applied][license].
+
+  [license]: https://github.com/Dynalon/mdwiki/blob/master/LICENSE.txt

@@ -30,7 +30,7 @@
 
 [gimmick:theme (inverse: false)](spacelab)
 
-[gimmick:ThemeChooser](Change theme)
+[gimmick:ThemeChooser](Page style)
 
 [gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/)
 
