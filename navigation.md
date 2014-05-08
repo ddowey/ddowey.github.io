@@ -1,4 +1,4 @@
-# MDwiki
+# Hi Pierre
 
 [About](index.md)
 
@@ -28,7 +28,7 @@
 [Forum](forum.md)
 
 
-[gimmick:theme (inverse: false)](spacelab)
+[gimmick:theme (inverse: false)](Yeti)
 
 [gimmick:ThemeChooser](Change theme)
 
