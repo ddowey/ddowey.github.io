@@ -81,6 +81,6 @@ MDwiki is licensed under [GNU GPLv3 with additional terms applied][license].
 My essay
 -------
 
-Blah blah [GNU GPLv3 with additional terms applied][license].
+<h1> this is what I am going to change to see what happens  </h1> [GNU GPLv3 with additional terms applied][license].
 
   [license]: https://github.com/Dynalon/mdwiki/blob/master/LICENSE.txt
