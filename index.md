@@ -81,6 +81,12 @@ MDwiki is licensed under [GNU GPLv3 with additional terms applied][license].
 My essay
 -------
 
-<h1> this is what I am going to change to see what happens  </h1> [GNU GPLv3 with additional terms applied][license].
+<h1> H1this is what I am going to change to see what happens  </h1>
+<h2> H2this is what I am going to change to see what happens  </h2>
+<h3> H3this is what I am going to change to see what happens  </h3>
+<h4> H4this is what I am going to change to see what happens  </h4>
+<h5> H5this is what I am going to change to see what happens  </h5>
+<h6> H6this is what I am going to change to see what happens  </h6>
+ [GNU GPLv3 with additional terms applied][license].
 
   [license]: https://github.com/Dynalon/mdwiki/blob/master/LICENSE.txt
