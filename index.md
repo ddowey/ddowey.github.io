@@ -19,7 +19,7 @@ Requirements
 
 * Webspace (or a web server that can serve static files)
 * Any modern Webbrowser
-* [see desert][<a href="#!/ddowey.github.io/desert.jpeg"></a>] file
+* <a href="#!/ddowey.github.io/desert.jpeg"> see desert </a> file
 
 How does it work?
 -----------------
