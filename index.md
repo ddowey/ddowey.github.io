@@ -19,7 +19,7 @@ Requirements
 
 * Webspace (or a web server that can serve static files)
 * Any modern Webbrowser
-* [mdwiki.html][download] file
+* [desert.jpeg][download] file
 
 How does it work?
 -----------------
