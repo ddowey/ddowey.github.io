@@ -19,7 +19,7 @@ Requirements
 
 * Webspace (or a web server that can serve static files)
 * Any modern Webbrowser
-* <a scr="desert.jpg"> see desert </a> file
+* <img scr="desert.jpg"> see desert </img> file
 
 How does it work?
 -----------------
