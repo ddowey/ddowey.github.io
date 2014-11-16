@@ -19,7 +19,7 @@ Requirements
 
 * Webspace (or a web server that can serve static files)
 * Any modern Webbrowser
-* <a href="!desert.jpg"> see desert </a> file
+* <a href="#!desert.jpg"> see desert </a> file
 
 How does it work?
 -----------------
